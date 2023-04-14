@@ -1,3 +1,7 @@
+---
+layout: single
+title: "로지스틱 회귀"
+---
 <a class="anchor" id="0"></a>
 # **Logistic Regression Classifier Tutorial with Python**
 
